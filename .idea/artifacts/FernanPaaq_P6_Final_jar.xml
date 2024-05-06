@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FernanPaaq_P6_Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FernanPaaq_P6_Final_jar</output-path>
+    <root id="archive" name="FernanPaaq_P6_Final.jar">
+      <element id="module-output" name="FernanPaaq_P6_Final" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/barcodes-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/forms-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/io-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/kernel-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/layout-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/pdfa-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/pdftest-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/sign-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/styled-xml-parser-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/iText7-Core-7.1.16-only-jars/svg-7.1.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/slf4j-api-1.7.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/recursos/slf4j-log4j12-1.7.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/2.0.1/jakarta.mail-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/luhuiguo/aspose-cells/23.1/aspose-cells-23.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
