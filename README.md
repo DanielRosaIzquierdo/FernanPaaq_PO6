@@ -41,6 +41,16 @@ Una vez descargado el programa hay que seguir la siguiente ruta para ejecutarlo
 
 ### INICIO
 
+Tenemos un archivo properties que nos permite habilitar un usuario invitado
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO6/assets/150911084/dd82b02a-0fc8-4d79-bf4b-4c7edc3a3079)
+
+Si invitado se encuentra a false: no tendremos la opción de buscar paquetes por id
+
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO6/assets/150911084/b5cbec5d-386d-4e93-b89c-6d6805a949b0)
+
+
+Si invitado se encuentra a true:
+
 Al iniciar nuestra aplicación nos permitirá iniciar sesión, registrarnos y buscar un paquete por id
 
 ![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO5/assets/150911084/c6472f10-9396-45d6-871e-eba157bfa60d)
@@ -53,13 +63,12 @@ Contraseña: 123
 Correo electrónico: paco@driver.com
 Contraseña: 123
 ### Usuarios Normales
-Correo electrónico: pepe@dev.com
-Contraseña: 123
-Correo electrónico: miguel@dev.com
+Correo electrónico: daniel.rosa.0204@fernando3martos.com
 Contraseña: 123
 Correo electrónico: javimasus@gmail.com
 Contraseña: 123
 Los datos de los usuarios creados por defecto se pueden modificar como se mostrará más adelante.
+
 
 ### REGISTRO
 
