@@ -8,6 +8,7 @@
 - Colaboradores
 
 ## DESCARGA
+### Los archivos del proyecto se encuentran en la rama master
 Aquí se descarga el archivo comprimido con los ficheros necesarios para ejecutar el programa
 
 ![descarga](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/e0299ef7-2fc4-499d-81f8-6fcaea7b8af8)
